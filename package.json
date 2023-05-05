@@ -1,0 +1,17 @@
+{
+  "name": "awsomeprojectbackend",
+  "version": "1.0.0",
+  "description": "Coding Assignment for Codistan",
+  "proxy": "http://localhost:3000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samdani",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
